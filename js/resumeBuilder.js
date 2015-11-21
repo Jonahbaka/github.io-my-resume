@@ -38,26 +38,42 @@ var projects = {
 	"projects": [
 		{
 			"title": "Neighborhood Map",
-			"date worked": "Dec, 2014 - Jan, 2015",
+			"date worked": "Dec, 2015",
 			"description": "Neighborhood Map project for Udacity Front-end Web Development Nanodegree",
-			"github": "https://github.com/lei-clearsky/neighborhood-map-seperate-model",
-			"demo": "http://lei-clearsky.github.io/neighborhood-map-seperate-model/",
+			"github": "https://github.com/Jonahbaka/github.io-neighborhoodMap.git",
+			"demo": "http://jonahbaka.github.io/github.io-neighborhoodMap",
 			"progress": 100
 		},
 		{
 			"title": "Arcade Game",
-			"date worked": "Nov, 2014",
+			"date worked": "Dec, 2015",
 			"description": "Classic arcade game clone project for Udacity Front-end Web Development Nanodegree",
-			"github": "https://github.com/lei-clearsky/p3-arcade-game",
-			"demo": "http://lei-clearsky.github.io/p3-arcade-game/",
+			"github": "https://github.com/Jonahbaka/github.io-alcadeGame.git",
+			"demo": "http://jonahbaka.github.io/github.io-alcadeGame",
 			"progress": 100
 		},
 		{
 			"title": "Interactive Resume",
-			"date worked": "Oct, 2014",
+			"date worked": "Dec, 2015",
 			"description": "Resume project for Udacity Front-end Web Development Nanodegree",
-			"github": "https://github.com/Jonahbaka/github.io-resume.git.",
-			"demo": "http://jonahbaka.github.io/github.io-resume.",
+			"github": "https://github.com/Jonahbaka/github.io-my-resume.git",
+			"demo": "http://jonahbaka.github.io/github.io-my-resume",
+			"progress": 100
+		},
+		 {
+			"title": "My Portfolio",
+			"date worked": "Dec, 2015",
+			"description": "Portfolio project for Udacity Front-end Web Development Nanodegree",
+			"github": "https://github.com/Jonahbaka/github.io-portfolio.git",
+			"demo": "http://jonahbaka.github.io/github.io-portfolio",
+			"progress": 100
+		},
+		 {
+			"title": "Dating site form",
+			"date worked": "Dec, 2015",
+			"description": "Portfolio project for Udacity Front-end Web Development Nanodegree",
+			"github": "https://github.com/Jonahbaka/github.io-datingSiteForm.git",
+			"demo": "http://jonahbaka.github.io/github.io-datingSiteForm",
 			"progress": 100
 		},
 		 
